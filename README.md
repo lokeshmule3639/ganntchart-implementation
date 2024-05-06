@@ -1,1 +1,1 @@
-its full detils on all cpu scheduling algirithms
+its full details on all cpu scheduling algirithms
